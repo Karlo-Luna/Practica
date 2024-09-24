@@ -4,8 +4,8 @@ int main(){
     printf("¿Qué edad tienes?\n");
     scanf_s("%i",&edad);
     if(edad>=18){
-        printf("Ya tienes edad para votar");
+        printf("Ya tienes edad para votar y para hacer cosas indebidas");
     } else{
-        printf("Todavía estas chamaco");
+        printf("Todavía estas chamaco, regresa al kinder");
     }
 }
