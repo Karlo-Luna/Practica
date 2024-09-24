@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("HOLA MUNDO")
+    printf("Arriba la 4t")
     return 0;
 }
